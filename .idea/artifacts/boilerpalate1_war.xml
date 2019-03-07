@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="boilerpalate1.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/boilerpalate1_war</output-path>
+    <root id="root">
+      <element id="archive" name="boilerpalate1.war" />
+    </root>
+  </artifact>
+</component>
